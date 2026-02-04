@@ -1,5 +1,14 @@
 # Système de Gestion de Commandes - Pub/Sub avec RabbitMQ
 
+## 🎓 Contexte du Projet
+Bien que ce système utilise des concepts d'architecture logicielle de niveau entreprise (systèmes distribués, découplage de services, persistance de données), il s'agit d'un **projet à des fins éducatives**. 
+
+L'objectif principal est de démontrer la maîtrise :
+* Du protocole **AMQP** avec RabbitMQ.
+* De la sérialisation/désérialisation d'objets complexes en C#.
+* De la gestion des flux de données asynchrones (Pub/Sub).
+* De la manipulation du système de fichiers (I/O) en environnement multi-services.
+
 Ce projet implémente un système de messagerie asynchrone basé sur le patron **Publish/Subscribe** en C#. Il simule la création de commandes aléatoires et leur traitement par différents services via **RabbitMQ** (v6.8.1).
 
 ## 🛠 Architecture Technique
