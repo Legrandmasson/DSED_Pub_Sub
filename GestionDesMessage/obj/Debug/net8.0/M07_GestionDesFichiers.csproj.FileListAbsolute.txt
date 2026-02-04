@@ -1,0 +1,15 @@
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\bin\Debug\net8.0\M07_GestionDesFichiers.deps.json
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\bin\Debug\net8.0\M07_GestionDesFichiers.dll
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\bin\Debug\net8.0\M07_GestionDesFichiers.pdb
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\bin\Debug\net8.0\DSED_M07_Commandes.dll
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\bin\Debug\net8.0\DSED_M07_Commandes.pdb
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\M07_GestionDesFichiers.csproj.AssemblyReference.cache
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\M07_GestionDesFichiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\M07_GestionDesFichiers.AssemblyInfoInputs.cache
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\M07_GestionDesFichiers.AssemblyInfo.cs
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\M07_GestionDesFichiers.csproj.CoreCompileInputs.cache
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\M07_Gest.FF5C5AB0.Up2Date
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\M07_GestionDesFichiers.dll
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\refint\M07_GestionDesFichiers.dll
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\M07_GestionDesFichiers.pdb
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\GestionDesMessage\obj\Debug\net8.0\ref\M07_GestionDesFichiers.dll

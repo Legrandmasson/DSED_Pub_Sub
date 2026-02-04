@@ -1,0 +1,60 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "DSED_M07_TraitementCommande_producteur\\DSED_M07_TraitementCommande_producteur.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Message\\DSED_M07_Commandes.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DSED_M07_TraitementCommande_journal\\DSED_M07_TraitementCommande_journal.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GestionDesMessage\\M07_GestionDesFichiers.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DSED_M07_TraitementCommande_facturation\\DSED_M07_TraitementCommande_facturation.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DSED_M07_TraitementCommande_Expedition\\DSED_M07_TraitementCommande_Expedition.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DSED_M07_TraitementCommande_CourrielsPremium\\DSED_M07_TraitementCommande_CourrielsPremium.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Programs)",
+    "Projects": [
+      {
+        "Path": "DSED_M07_TraitementCommande_producteur\\DSED_M07_TraitementCommande_producteur.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DSED_M07_TraitementCommande_journal\\DSED_M07_TraitementCommande_journal.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DSED_M07_TraitementCommande_facturation\\DSED_M07_TraitementCommande_facturation.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DSED_M07_TraitementCommande_Expedition\\DSED_M07_TraitementCommande_Expedition.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DSED_M07_TraitementCommande_CourrielsPremium\\DSED_M07_TraitementCommande_CourrielsPremium.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

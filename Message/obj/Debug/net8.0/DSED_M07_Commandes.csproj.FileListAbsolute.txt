@@ -1,0 +1,11 @@
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\bin\Debug\net8.0\DSED_M07_Commandes.deps.json
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\bin\Debug\net8.0\DSED_M07_Commandes.dll
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\bin\Debug\net8.0\DSED_M07_Commandes.pdb
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\obj\Debug\net8.0\DSED_M07_Commandes.GeneratedMSBuildEditorConfig.editorconfig
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\obj\Debug\net8.0\DSED_M07_Commandes.AssemblyInfoInputs.cache
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\obj\Debug\net8.0\DSED_M07_Commandes.AssemblyInfo.cs
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\obj\Debug\net8.0\DSED_M07_Commandes.csproj.CoreCompileInputs.cache
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\obj\Debug\net8.0\DSED_M07_Commandes.dll
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\obj\Debug\net8.0\refint\DSED_M07_Commandes.dll
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\obj\Debug\net8.0\DSED_M07_Commandes.pdb
+C:\AEC\DSED\Module_7PubSub\DSED_M07_TraitementCommande\Message\obj\Debug\net8.0\ref\DSED_M07_Commandes.dll

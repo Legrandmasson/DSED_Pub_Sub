@@ -1,0 +1,9 @@
+{
+    "Header": "\u00227cae2148-2bbf-467d-a5bf-fcc42e466ac4CommandePlaceev1\u0022",
+    "Body": "{\u0022NomClient\u0022:\u0022Sophie Tremblay\u0022,\u0022Reference\u0022:\u0022a97e4bdd-604f-40aa-a956-4a709163fd80\u0022,\u0022Articles\u0022:[{\u0022Reference\u0022:\u0022e0af1033-735f-4579-ba4a-ab41113f8f05\u0022,\u0022NomArticle\u0022:\u0022Tournevis\u0022,\u0022Prix\u0022:12.50,\u0022Quantite\u0022:10},{\u0022Reference\u0022:\u0022e0af1033-735f-4579-ba4a-ab41113f8f05\u0022,\u0022NomArticle\u0022:\u0022Tournevis\u0022,\u0022Prix\u0022:12.50,\u0022Quantite\u0022:10},{\u0022Reference\u0022:\u0022e0af1033-735f-4579-ba4a-ab41113f8f05\u0022,\u0022NomArticle\u0022:\u0022Tournevis\u0022,\u0022Prix\u0022:12.50,\u0022Quantite\u0022:10}],\u0022estPremimum\u0022:true}",
+    "Signature": {
+        "HashMethod": "L3P0UL3T",
+        "BodySignature": "eyJOb21DbGllbnQiOiJTb3BoaWUgVHJlbWJsYXkiLCJSZWZlcmVuY2UiOiJhOTdlNGJkZC02MDRmLTQwYWEtYTk1Ni00YTcwOTE2M2ZkODAiLCJBcnRpY2xlcyI6W3siUmVmZXJlbmNlIjoiZTBhZjEwMzMtNzM1Zi00NTc5LWJhNGEtYWI0MTExM2Y4ZjA1IiwiTm9tQXJ0aWNsZSI6IlRvdXJuZXZpcyIsIlByaXgiOjEyLjUwLCJRdWFudGl0ZSI6MTB9LHsiUmVmZXJlbmNlIjoiZTBhZjEwMzMtNzM1Zi00NTc5LWJhNGEtYWI0MTExM2Y4ZjA1IiwiTm9tQXJ0aWNsZSI6IlRvdXJuZXZpcyIsIlByaXgiOjEyLjUwLCJRdWFudGl0ZSI6MTB9LHsiUmVmZXJlbmNlIjoiZTBhZjEwMzMtNzM1Zi00NTc5LWJhNGEtYWI0MTExM2Y4ZjA1IiwiTm9tQXJ0aWNsZSI6IlRvdXJuZXZpcyIsIlByaXgiOjEyLjUwLCJRdWFudGl0ZSI6MTB9XSwiZXN0UHJlbWltdW0iOnRydWV9",
+        "HeaderSignature": "IjdjYWUyMTQ4LTJiYmYtNDY3ZC1hNWJmLWZjYzQyZTQ2NmFjNENvbW1hbmRlUGxhY2VldjEi"
+    }
+}

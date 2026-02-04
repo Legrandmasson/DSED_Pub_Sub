@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "M07_GestionDesFichiers/1.0.0": {
+        "dependencies": {
+          "DSED_M07_Commandes": "1.0.0"
+        },
+        "runtime": {
+          "M07_GestionDesFichiers.dll": {}
+        }
+      },
+      "DSED_M07_Commandes/1.0.0": {
+        "runtime": {
+          "DSED_M07_Commandes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M07_GestionDesFichiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DSED_M07_Commandes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
