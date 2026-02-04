@@ -1,4 +1,4 @@
-# Système de Gestion de Commandes - Pub/Sub avec RabbitMQ
+test# Système de Gestion de Commandes - Pub/Sub avec RabbitMQ
 
 ## 🎓 Contexte du Projet
 Bien que ce système utilise des concepts d'architecture logicielle de niveau entreprise (systèmes distribués, découplage de services, persistance de données), il s'agit d'un **projet à des fins éducatives**. 
